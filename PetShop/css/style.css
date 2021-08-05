@@ -1,0 +1,34 @@
+/* Estilos Generales */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Header */
+.ofertas {
+    background-color: #222222;
+    color: #ffffff;
+    width: 1024px;
+}
+
+.ofertas ul{
+    display: inline-flex;
+    list-style: none;
+}
+
+.ofertas li{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+header {
+    background-color: #F0A83E;
+}
+
+/* Main */
+
+/* Footer */
