@@ -1,0 +1,78 @@
+/* Estilos Generales */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500;700;900&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+
+/* Header */
+nav {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400px;
+  margin: 0px;
+  padding: 0px;
+}
+
+header ul {
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+header ul li {
+  display: list-item;
+}
+
+/* Main */
+.banner {
+  background-color: wheat;
+  background-image: url("../img/lemon-pie\ 1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: -200px center;
+  height: 460px;
+  position: relative;
+}
+
+h1 {
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  position: absolute;
+  bottom: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+h3 {
+  font-style: italic;
+  font-weight: 700;
+  font-style: 18px;
+}
+
+.banner p {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+/* Footer */
+footer {
+    background-color: #ccc;
+    text-align: center;
+    line-height: 40px;
+
+}
