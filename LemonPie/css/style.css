@@ -34,7 +34,7 @@ header ul li {
 
 /* Main */
 .banner {
-  background: wheat url("img/lemon-pie\ 1.jpg") no-repeat fixed 0 center;
+  background: wheat url("../img/lemon-pie\ 1.jpg") no-repeat fixed 0 center;
   background-size: cover;
   filter: grayscale(40%);
   height: 50rem;
